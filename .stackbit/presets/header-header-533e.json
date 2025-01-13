@@ -1,0 +1,79 @@
+{
+    "model": "Header",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Header",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Header"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Personal",
+                "isTitleVisible": true,
+                "logo": null,
+                "primaryLinks": [
+                    {
+                        "$$type": "Link",
+                        "label": "Info",
+                        "altText": null,
+                        "url": "/info",
+                        "showIcon": null,
+                        "icon": null,
+                        "iconPosition": null,
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "Projects",
+                        "altText": null,
+                        "url": "/projects",
+                        "showIcon": null,
+                        "icon": null,
+                        "iconPosition": null,
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "Blog",
+                        "altText": null,
+                        "url": "/blog",
+                        "showIcon": null,
+                        "icon": null,
+                        "iconPosition": null,
+                        "elementId": null
+                    }
+                ],
+                "socialLinks": [
+                    {
+                        "$$type": "Social",
+                        "label": "GitHub",
+                        "altText": "GitHub",
+                        "url": "https://github.com/netlify-templates",
+                        "icon": "github",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Social",
+                        "label": "Twitter",
+                        "altText": "Twitter",
+                        "url": "https://twitter.com/netlify",
+                        "icon": "twitter",
+                        "elementId": null
+                    }
+                ],
+                "headerVariant": "variant-c",
+                "isSticky": false,
+                "styles": {
+                    "self": {
+                        "width": "full"
+                    }
+                }
+            }
+        }
+    ]
+}
